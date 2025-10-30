@@ -1,0 +1,18 @@
+[34m2025-10-22 20:21:50 [debug] create database instance: {"sync":{"alter":{"drop":false},"force":false},"logging":false,"dialect":"sqlite","underscored":false,"pool":{},"migrator":{"context":{"app":{"appName":"main","name":"main"}}},"logger":{},"rawTimezone":"+07:00"}[39m meta={"databaseInstanceId":"bhP3wTmRWnYYVFwSY2Wpv"} module=database app=main reqId=320c0808-f159-4c42-a4cd-fccac5fad7ff dataSourceKey=main
+[32m2025-10-22 20:21:50 [info]  add app main into supervisor                [39m module=application submodule=supervisor method=addApp app=main reqId=320c0808-f159-4c42-a4cd-fccac5fad7ff dataSourceKey=main
+[32m2025-10-22 20:21:50 [info]  connection has been established successfully.[39m module=database method=auth app=main reqId=320c0808-f159-4c42-a4cd-fccac5fad7ff dataSourceKey=main
+[34m2025-10-22 20:21:50 [debug] init plugins                                [39m module=application app=main reqId=320c0808-f159-4c42-a4cd-fccac5fad7ff dataSourceKey=main
+[34m2025-10-22 20:21:50 [debug] loading app...                              [39m module=application app=main reqId=320c0808-f159-4c42-a4cd-fccac5fad7ff dataSourceKey=main
+[34m2025-10-22 20:21:50 [debug] loading plugins...                          [39m module=application app=main reqId=320c0808-f159-4c42-a4cd-fccac5fad7ff dataSourceKey=main
+[34m2025-10-22 20:21:51 [debug] Registering task type: command              [39m module=application app=main reqId=320c0808-f159-4c42-a4cd-fccac5fad7ff dataSourceKey=main
+[34m2025-10-22 20:21:51 [debug] Subscribed to background job topic: workflow.pendingExecution[39m module=application app=main reqId=320c0808-f159-4c42-a4cd-fccac5fad7ff dataSourceKey=main
+[34m2025-10-22 20:21:52 [debug] plugins loaded                              [39m module=application app=main reqId=320c0808-f159-4c42-a4cd-fccac5fad7ff dataSourceKey=main
+[34m2025-10-22 20:21:52 [debug] loading locale resource...                  [39m module=application submodule=locale method=onAfterLoad app=main reqId=320c0808-f159-4c42-a4cd-fccac5fad7ff dataSourceKey=main
+[34m2025-10-22 20:21:53 [debug] locale resource loaded                      [39m module=application submodule=locale method=onAfterLoad app=main reqId=320c0808-f159-4c42-a4cd-fccac5fad7ff dataSourceKey=main
+[34m2025-10-22 20:21:53 [debug] starting app...                             [39m module=application app=main reqId=320c0808-f159-4c42-a4cd-fccac5fad7ff dataSourceKey=main
+[34m2025-10-22 20:21:53 [debug] loading custom collections                  [39m module=data-source-main method=loadCollections app=main reqId=320c0808-f159-4c42-a4cd-fccac5fad7ff dataSourceKey=main
+[34m2025-10-22 20:21:53 [debug] loading collections...                      [39m module=database app=main reqId=320c0808-f159-4c42-a4cd-fccac5fad7ff dataSourceKey=main
+[34m2025-10-22 20:21:53 [debug] collections loaded                          [39m module=database app=main reqId=320c0808-f159-4c42-a4cd-fccac5fad7ff dataSourceKey=main
+[32m2025-10-22 20:21:55 [info]  memory queue storage file not found, skip   [39m module=application app=main reqId=320c0808-f159-4c42-a4cd-fccac5fad7ff dataSourceKey=main
+[32m2025-10-22 20:21:55 [info]  write roles to ACL                          [39m module=acl method=writeRolesToACL app=main reqId=320c0808-f159-4c42-a4cd-fccac5fad7ff dataSourceKey=main
+[32m2025-10-22 20:21:55 [info]  app has been started                        [39m module=application app=main reqId=320c0808-f159-4c42-a4cd-fccac5fad7ff dataSourceKey=main

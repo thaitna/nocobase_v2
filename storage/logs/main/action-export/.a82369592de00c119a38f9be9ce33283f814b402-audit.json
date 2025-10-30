@@ -1,0 +1,50 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/home/dau-son/nocobase-v2/storage/logs/main/action-export/.a82369592de00c119a38f9be9ce33283f814b402-audit.json",
+    "files": [
+        {
+            "date": 1760929591441,
+            "name": "/home/dau-son/nocobase-v2/storage/logs/main/action-export/2025-10-20.log",
+            "hash": "c305a31d130fee5e812d066fcfd9f97ab3edecb76ada6b22929daeaea402712b"
+        },
+        {
+            "date": 1761029675413,
+            "name": "/home/dau-son/nocobase-v2/storage/logs/main/action-export/2025-10-21.log",
+            "hash": "6c6ffc28d9982c6c2985c7b66a05709c3e9b1fb6cfb883ea21e1112f1ce05fc4"
+        },
+        {
+            "date": 1761139311236,
+            "name": "/home/dau-son/nocobase-v2/storage/logs/main/action-export/2025-10-22.log",
+            "hash": "70fe987a43e42e6d1508a8688c71101c9995dc9a542df45b417768534095ab14"
+        },
+        {
+            "date": 1761315638092,
+            "name": "/home/dau-son/nocobase-v2/storage/logs/main/action-export/2025-10-24.log",
+            "hash": "5e701c4f94cec3745b8cc8a83bf4e599c1aa518e9ba80c5da30908842782190b"
+        },
+        {
+            "date": 1761368298986,
+            "name": "/home/dau-son/nocobase-v2/storage/logs/main/action-export/2025-10-25.log",
+            "hash": "d57c8915a0cdcba65a28651e1e09b468d70cf10682b96ff507a8a9be575c9011"
+        },
+        {
+            "date": 1761569724189,
+            "name": "/home/dau-son/nocobase-v2/storage/logs/main/action-export/2025-10-27.log",
+            "hash": "3120ba560a5d488177492632aaceb767a4e030d144cf1392b1302bf69542bfbd"
+        },
+        {
+            "date": 1761719524423,
+            "name": "/home/dau-son/nocobase-v2/storage/logs/main/action-export/2025-10-29.log",
+            "hash": "adba40fee76558193d9cc3c35c4eafcb7d45155c8b51840d75e5110ddb065fff"
+        },
+        {
+            "date": 1761831191703,
+            "name": "/home/dau-son/nocobase-v2/storage/logs/main/action-export/2025-10-30.log",
+            "hash": "4b5668304ce92eba17f2c890288519f60f7894f5946506c1363fbaeaadf94de5"
+        }
+    ],
+    "hashType": "sha256"
+}

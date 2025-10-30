@@ -1,0 +1,50 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/home/dau-son/nocobase-v2/storage/logs/main/notification-manager/.fda89936ff216b9fd0c9411d232e364d037b98ab-audit.json",
+    "files": [
+        {
+            "date": 1760929591337,
+            "name": "/home/dau-son/nocobase-v2/storage/logs/main/notification-manager/2025-10-20.log",
+            "hash": "75469a93ce1b98ecffbab75d7026ccfc856d20d6095552e3eb6f0f770202cb7d"
+        },
+        {
+            "date": 1761029675151,
+            "name": "/home/dau-son/nocobase-v2/storage/logs/main/notification-manager/2025-10-21.log",
+            "hash": "550722a8baada0e5194c522cafdea4fc0245fc879bb4095b2fe6ac78d961fbcd"
+        },
+        {
+            "date": 1761139310928,
+            "name": "/home/dau-son/nocobase-v2/storage/logs/main/notification-manager/2025-10-22.log",
+            "hash": "f979a253180d83c01646d1347974b067b3bbac36d69bccd3505351361a2fec4b"
+        },
+        {
+            "date": 1761315637681,
+            "name": "/home/dau-son/nocobase-v2/storage/logs/main/notification-manager/2025-10-24.log",
+            "hash": "ccf302965f65d04aa8f93e9bc4cf3f5de1267f9983430be64b04a4e32cdaf2f9"
+        },
+        {
+            "date": 1761368298722,
+            "name": "/home/dau-son/nocobase-v2/storage/logs/main/notification-manager/2025-10-25.log",
+            "hash": "c76a7b77ad21c90837283ebc6bc75887ea57fa227e33dcd29e79edba071004d5"
+        },
+        {
+            "date": 1761569723899,
+            "name": "/home/dau-son/nocobase-v2/storage/logs/main/notification-manager/2025-10-27.log",
+            "hash": "355aea4ae834b247392acd5458da7dd7f29a89f820d2c4da34a282ed11f78270"
+        },
+        {
+            "date": 1761719524086,
+            "name": "/home/dau-son/nocobase-v2/storage/logs/main/notification-manager/2025-10-29.log",
+            "hash": "06a215a61f5a6f65f3491c4f81cf20a209c4182bc8ada81ba31cf78651146e53"
+        },
+        {
+            "date": 1761831191019,
+            "name": "/home/dau-son/nocobase-v2/storage/logs/main/notification-manager/2025-10-30.log",
+            "hash": "53c7c87a320a3b40eff5e81ccc4e6ec09b03d1de4f309b2103c41bc9def6f74b"
+        }
+    ],
+    "hashType": "sha256"
+}

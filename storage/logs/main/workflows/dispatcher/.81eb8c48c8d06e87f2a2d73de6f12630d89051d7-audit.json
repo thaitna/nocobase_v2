@@ -1,0 +1,55 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/home/dau-son/nocobase-v2/storage/logs/main/workflows/dispatcher/.81eb8c48c8d06e87f2a2d73de6f12630d89051d7-audit.json",
+    "files": [
+        {
+            "date": 1760929623248,
+            "name": "/home/dau-son/nocobase-v2/storage/logs/main/workflows/dispatcher/2025-10-20.log",
+            "hash": "2ca7aa73fc6e1952d93952bf9814ffb56e16837470418e7ce9a450d34ec27afb"
+        },
+        {
+            "date": 1761029680071,
+            "name": "/home/dau-son/nocobase-v2/storage/logs/main/workflows/dispatcher/2025-10-21.log",
+            "hash": "463438e3a256b28593d9348a311964ba131f658d525a69bcb5cec878a5be6a38"
+        },
+        {
+            "date": 1761139315280,
+            "name": "/home/dau-son/nocobase-v2/storage/logs/main/workflows/dispatcher/2025-10-22.log",
+            "hash": "95c19354135e4a6eb7ffc313a9302e98a0e8985f5db44f438465a8d806d908fa"
+        },
+        {
+            "date": 1761315644198,
+            "name": "/home/dau-son/nocobase-v2/storage/logs/main/workflows/dispatcher/2025-10-24.log",
+            "hash": "784c691ea355d30a8245e6c64cf4f2506becfdb20677e7f239ef2d69d6a02616"
+        },
+        {
+            "date": 1761368303358,
+            "name": "/home/dau-son/nocobase-v2/storage/logs/main/workflows/dispatcher/2025-10-25.log",
+            "hash": "6bc0ee73d5f96e94e3c5abd33a192bd3f6318497afbefc65d1eec26e42a38d9c"
+        },
+        {
+            "date": 1761411773274,
+            "name": "/home/dau-son/nocobase-v2/storage/logs/main/workflows/dispatcher/2025-10-26.log",
+            "hash": "e4f040bc52159f18121458505555ecdf967ac3bc0faa68d99878865f550d35b4"
+        },
+        {
+            "date": 1761569730478,
+            "name": "/home/dau-son/nocobase-v2/storage/logs/main/workflows/dispatcher/2025-10-27.log",
+            "hash": "fcac3ea160ebc41617cf28d2776d1fc47d888775efaa8f70d2cd55d2a5c024fb"
+        },
+        {
+            "date": 1761719530035,
+            "name": "/home/dau-son/nocobase-v2/storage/logs/main/workflows/dispatcher/2025-10-29.log",
+            "hash": "ce179b67ac450359e6c598d4dab9522b2b73481c2a71eaf7aaecf479131509c9"
+        },
+        {
+            "date": 1761831204662,
+            "name": "/home/dau-son/nocobase-v2/storage/logs/main/workflows/dispatcher/2025-10-30.log",
+            "hash": "65654fac0e83b22a344eb5b9898c8f0fd6880f2ba9f636c516ff74e6939d2bf4"
+        }
+    ],
+    "hashType": "sha256"
+}

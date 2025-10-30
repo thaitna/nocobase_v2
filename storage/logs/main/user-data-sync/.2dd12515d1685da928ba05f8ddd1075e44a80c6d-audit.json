@@ -1,0 +1,50 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/home/dau-son/nocobase-v2/storage/logs/main/user-data-sync/.2dd12515d1685da928ba05f8ddd1075e44a80c6d-audit.json",
+    "files": [
+        {
+            "date": 1760929591750,
+            "name": "/home/dau-son/nocobase-v2/storage/logs/main/user-data-sync/2025-10-20.log",
+            "hash": "0597faf23718dd65e15af226b595ee4229984b5a2bcf32af6489a37751743a0b"
+        },
+        {
+            "date": 1761029676399,
+            "name": "/home/dau-son/nocobase-v2/storage/logs/main/user-data-sync/2025-10-21.log",
+            "hash": "87bbb91bdf879f12c32d80258bfcad65075fd43dd2c6345b40dcfe3a5731f844"
+        },
+        {
+            "date": 1761139311838,
+            "name": "/home/dau-son/nocobase-v2/storage/logs/main/user-data-sync/2025-10-22.log",
+            "hash": "ddc115e3cdcc735d537cab0bb1156b4ee0c247ebc2672bf57360bd59618fc25a"
+        },
+        {
+            "date": 1761315638866,
+            "name": "/home/dau-son/nocobase-v2/storage/logs/main/user-data-sync/2025-10-24.log",
+            "hash": "90c0e9bb9948143f650b5d027d8d5021cd39c0e60c1173960c9dbe0646ba7219"
+        },
+        {
+            "date": 1761368299794,
+            "name": "/home/dau-son/nocobase-v2/storage/logs/main/user-data-sync/2025-10-25.log",
+            "hash": "4483d5234f7a6c5593ed86d445cb988da74cd579dd4201da7b06da539e24b14c"
+        },
+        {
+            "date": 1761569724989,
+            "name": "/home/dau-son/nocobase-v2/storage/logs/main/user-data-sync/2025-10-27.log",
+            "hash": "7ef3b91e0f5998e999c96cd8ecdb4f0be359f45d544f43399cb5b4a4a04304fe"
+        },
+        {
+            "date": 1761719524921,
+            "name": "/home/dau-son/nocobase-v2/storage/logs/main/user-data-sync/2025-10-29.log",
+            "hash": "cc80e48782a9b9e52bf8db43ef28e8fc42c867f2a5364ae66188f0245e93862f"
+        },
+        {
+            "date": 1761831193079,
+            "name": "/home/dau-son/nocobase-v2/storage/logs/main/user-data-sync/2025-10-30.log",
+            "hash": "6ad098ed27f7d19d19b5649a235856ca3c679ff45a51f21e8a7bfe2e27c4b29e"
+        }
+    ],
+    "hashType": "sha256"
+}

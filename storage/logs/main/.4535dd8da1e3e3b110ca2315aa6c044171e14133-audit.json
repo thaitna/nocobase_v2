@@ -1,0 +1,50 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/home/dau-son/nocobase-v2/storage/logs/main/.4535dd8da1e3e3b110ca2315aa6c044171e14133-audit.json",
+    "files": [
+        {
+            "date": 1760929590671,
+            "name": "/home/dau-son/nocobase-v2/storage/logs/main/request_2025-10-20.log",
+            "hash": "1a54239ce549a45b9cd3fb8832bc3f4c4efe4245be5ddb09316ed0e85bb5417b"
+        },
+        {
+            "date": 1761029674172,
+            "name": "/home/dau-son/nocobase-v2/storage/logs/main/request_2025-10-21.log",
+            "hash": "3c315a798cc22263a5307a2dd4eb57d95eae21f14c60897fbde4fc22dce8d540"
+        },
+        {
+            "date": 1761139310245,
+            "name": "/home/dau-son/nocobase-v2/storage/logs/main/request_2025-10-22.log",
+            "hash": "3d9ccd6d86288939ca97a0c2735de5974010eb7adcfe9a1ef7ef500852e6048c"
+        },
+        {
+            "date": 1761315636058,
+            "name": "/home/dau-son/nocobase-v2/storage/logs/main/request_2025-10-24.log",
+            "hash": "0e357345475aedfa54136fd700be3c1384b79e876b2ffaea3c0f95ea9c06f454"
+        },
+        {
+            "date": 1761368297947,
+            "name": "/home/dau-son/nocobase-v2/storage/logs/main/request_2025-10-25.log",
+            "hash": "08935cd0ceecd36e4dda6a97cc9766199be602533d1f0a9ed61b9bbcc5641326"
+        },
+        {
+            "date": 1761569722678,
+            "name": "/home/dau-son/nocobase-v2/storage/logs/main/request_2025-10-27.log",
+            "hash": "29c039d449074593993156710765cf443e5e8d356f0e7887f5ce6ccc1e9a0854"
+        },
+        {
+            "date": 1761719523406,
+            "name": "/home/dau-son/nocobase-v2/storage/logs/main/request_2025-10-29.log",
+            "hash": "7a3ee934995b6273b9dd3add05b8693a34b79f81d3136c051159bf9aed57fc96"
+        },
+        {
+            "date": 1761831189052,
+            "name": "/home/dau-son/nocobase-v2/storage/logs/main/request_2025-10-30.log",
+            "hash": "275b3dbb78c866aee5b6f179418e14e669f5f0405cff040fd6cce4e5081f9895"
+        }
+    ],
+    "hashType": "sha256"
+}

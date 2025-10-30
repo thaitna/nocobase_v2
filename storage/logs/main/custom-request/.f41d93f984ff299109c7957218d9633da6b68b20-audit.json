@@ -1,0 +1,50 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/home/dau-son/nocobase-v2/storage/logs/main/custom-request/.f41d93f984ff299109c7957218d9633da6b68b20-audit.json",
+    "files": [
+        {
+            "date": 1760929591355,
+            "name": "/home/dau-son/nocobase-v2/storage/logs/main/custom-request/2025-10-20.log",
+            "hash": "c2916b5cc02b111b3e42eaeb346b59616a517f0135aebb535620144416d6de24"
+        },
+        {
+            "date": 1761029675201,
+            "name": "/home/dau-son/nocobase-v2/storage/logs/main/custom-request/2025-10-21.log",
+            "hash": "ba139051235f1a1120a9e37c3d0fb5d518089c98c13ad49e171f7b47f52f8c44"
+        },
+        {
+            "date": 1761139311006,
+            "name": "/home/dau-son/nocobase-v2/storage/logs/main/custom-request/2025-10-22.log",
+            "hash": "73b11af1454532c8628da8933cfbe41179492c65decdd09f72a407fdbc895a7e"
+        },
+        {
+            "date": 1761315637773,
+            "name": "/home/dau-son/nocobase-v2/storage/logs/main/custom-request/2025-10-24.log",
+            "hash": "78f41fd7370876877d3c2953864a3f701cd9d1a71e16abe1db83521828888a23"
+        },
+        {
+            "date": 1761368298787,
+            "name": "/home/dau-son/nocobase-v2/storage/logs/main/custom-request/2025-10-25.log",
+            "hash": "332cb6cc1479a04cfb745250fba26c8ef2407111f6a5f44ae1434d76b77f8a3c"
+        },
+        {
+            "date": 1761569723964,
+            "name": "/home/dau-son/nocobase-v2/storage/logs/main/custom-request/2025-10-27.log",
+            "hash": "97eb1d75c10aafe17aafc34c5ac7bcfac71269c76c4947f4704a7860f3450bf3"
+        },
+        {
+            "date": 1761719524126,
+            "name": "/home/dau-son/nocobase-v2/storage/logs/main/custom-request/2025-10-29.log",
+            "hash": "c27f227f4e879bf97cc4d7caf9438e318f312ff5d024508698d2eb0db49357b6"
+        },
+        {
+            "date": 1761831191401,
+            "name": "/home/dau-son/nocobase-v2/storage/logs/main/custom-request/2025-10-30.log",
+            "hash": "7750bd451b7d6ea1215768c38f421673a6be435f8238b3c6363239489db2e052"
+        }
+    ],
+    "hashType": "sha256"
+}

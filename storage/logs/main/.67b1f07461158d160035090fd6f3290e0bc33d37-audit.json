@@ -1,0 +1,50 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/home/dau-son/nocobase-v2/storage/logs/main/.67b1f07461158d160035090fd6f3290e0bc33d37-audit.json",
+    "files": [
+        {
+            "date": 1760929590669,
+            "name": "/home/dau-son/nocobase-v2/storage/logs/main/system_error_2025-10-20.log",
+            "hash": "1c5a10b346e1e599254b32765247afa8d80c8e8809072d093062ec042e3fc58d"
+        },
+        {
+            "date": 1761029674166,
+            "name": "/home/dau-son/nocobase-v2/storage/logs/main/system_error_2025-10-21.log",
+            "hash": "82d2a4992ca92c0b544561d0c78befe6e345ff8c505120df8344fae7da5be776"
+        },
+        {
+            "date": 1761139310237,
+            "name": "/home/dau-son/nocobase-v2/storage/logs/main/system_error_2025-10-22.log",
+            "hash": "5d3a6c5e9535eca06b47233671810babe7e05a2c69f5755028196e5ef3152ef5"
+        },
+        {
+            "date": 1761315636047,
+            "name": "/home/dau-son/nocobase-v2/storage/logs/main/system_error_2025-10-24.log",
+            "hash": "0d0ce99178d8dbb5689a27bb33fd477e4d4bfe61e05a0f7c42fbd46c02f7c2a6"
+        },
+        {
+            "date": 1761368297941,
+            "name": "/home/dau-son/nocobase-v2/storage/logs/main/system_error_2025-10-25.log",
+            "hash": "47ddb93e5afb50f27f86cd4d5aac9c6e45afbc6cc8f74ce490b0c720f81984a4"
+        },
+        {
+            "date": 1761569722665,
+            "name": "/home/dau-son/nocobase-v2/storage/logs/main/system_error_2025-10-27.log",
+            "hash": "e140bd0a5e17b32151175c5c28fdc28bc20f9aaecebe8e756c4b8952be277e43"
+        },
+        {
+            "date": 1761719523399,
+            "name": "/home/dau-son/nocobase-v2/storage/logs/main/system_error_2025-10-29.log",
+            "hash": "b3a34469e670bbc09ed67da389a31ca15b84fd53537feef66781cf0bcd6a1666"
+        },
+        {
+            "date": 1761831189020,
+            "name": "/home/dau-son/nocobase-v2/storage/logs/main/system_error_2025-10-30.log",
+            "hash": "97b3b2de0e2d6fa06d2ff790113bf06edd02773f0739a88f7e0f48cb77deac14"
+        }
+    ],
+    "hashType": "sha256"
+}
