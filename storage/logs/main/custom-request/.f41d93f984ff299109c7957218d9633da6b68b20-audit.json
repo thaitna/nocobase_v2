@@ -44,6 +44,11 @@
             "date": 1761831191401,
             "name": "/home/dau-son/nocobase-v2/storage/logs/main/custom-request/2025-10-30.log",
             "hash": "7750bd451b7d6ea1215768c38f421673a6be435f8238b3c6363239489db2e052"
+        },
+        {
+            "date": 1761879790788,
+            "name": "/home/dau-son/nocobase-v2/storage/logs/main/custom-request/2025-10-31.log",
+            "hash": "51507614e725c1268cf4c9084bd2511522e0887fc4377a6211dd7a2937773d72"
         }
     ],
     "hashType": "sha256"

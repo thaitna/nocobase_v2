@@ -20,3 +20,6 @@ docs-dist/
 dist/
 /docker/**/storage
 /storage/.app-dev
+
+# Bỏ qua tất cả các tệp log của NocoBase
+storage/logs/
